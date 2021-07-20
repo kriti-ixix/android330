@@ -1,0 +1,5 @@
+Specifiers
+1. public : Can be accessed globally
+2. private : Can be accessed only within the same class
+3. default : Can be accessed only within the same package/folder
+4. protected : Can be accessed by the child/derived classes of that class
