@@ -1,0 +1,5 @@
+Checked Exceptions:
+- Detected by the compiler
+
+Unchecked Exceptions:
+- Not detected/predicted by the compiler
