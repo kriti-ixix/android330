@@ -4,6 +4,11 @@ class StudentInfo //Parent or base class
 {
     String name = ""; int rollno;
 
+    void getInfo()
+    {
+
+    }
+
     public static void main(String[] args)
     {
         Exams e1 = new Exams();
@@ -27,6 +32,11 @@ class StudentInfo //Parent or base class
 class Exams extends StudentInfo //Child or derived class
 {
     String subject = ""; double marks;
+
+    void getInfo()
+    {
+        
+    }
 }
 
 class Attendance extends StudentInfo //Child or derived class
