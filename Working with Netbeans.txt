@@ -1,0 +1,21 @@
+How to create a project:
+
+1. Click on File > New Project
+2. Select JAVA with Ant > Java Application
+3. Click on next
+4. Give your project a name (preferably starting with upper case)
+5. Click on Finish
+
+
+How to get started:
+1. Open your project from the left side tab and go to the source package
+2. Right click on it > New > JFrameForm
+3. Give the JFrame a name and click on Finish
+4. Drag and drop the components on the JFrame
+5. If you want something to happen when the button is clicked, double click on the button and it will automatically create a function for you
+6. Write the code you want to execute
+7. Right click and select Run File
+
+
+Code to change the text of a label:
+jLabel1.setText("How are you?");
