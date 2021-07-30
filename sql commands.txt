@@ -1,0 +1,11 @@
+To insert values:
+insert into <table name> values (values column wise)
+
+To update values:
+update <table name> set <column name> = <value> where <condition>
+
+To delete values:
+delete from <table name> where <condition>
+
+To get values:
+select * from <table name> where <condition>
